@@ -13,7 +13,7 @@ Hence: we can have a backend DB in firebase, and everything can be done "front e
 
 A: authentication, really tbh.
 
-BTW: we tried adding the gitignore: if it does indeed work then we can avoid jetbrains workspace clobbering in the future.
+BTW: we tried adding the gitignore: if it does indeed work then we can avoid jetbrains workspace clobbering in the future. It worked marginally; in the future we should really just ignore the entire .idea folder
 
 AYY it is working, really is quite simple:
 
